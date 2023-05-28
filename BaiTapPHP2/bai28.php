@@ -2,6 +2,7 @@
 <html>
 <body>
 <?php
+    //Viết chương trình PHP để tính tổng các số lẻ từ 1 đến n.
 function sumNumbers($n) {
     $sum = 0;
     // Duyệt qua các số từ 1 đến n
