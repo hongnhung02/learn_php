@@ -2,6 +2,7 @@
 <html>
 <body>
 <?php
+//Viết chương trình PHP để tìm số nguyên tố trong một khoảng cho trước.
 function isPrime($number) {
     if ($number < 2) {
         return false; // Số nhỏ hơn 2 không phải số nguyên tố
