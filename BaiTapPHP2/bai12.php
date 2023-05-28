@@ -2,6 +2,7 @@
 <html>
 <body>
 <?php
+//Viết chương trình PHP để chèn một phần tử vào một mảng ở vị trí bất kỳ.
 function insertElement($element, $position) {
     // Tạo một mảng mới để chứa phần tử được chèn
     $newArray = [];
