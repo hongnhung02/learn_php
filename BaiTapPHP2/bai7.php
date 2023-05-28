@@ -2,6 +2,7 @@
 <html>
 <body>
 <?php
+//Viết chương trình PHP để tính giai thừa của một số nguyên dương.
 function tinhGiaiThua($n) {
     if ($n == 0 || $n == 1) {
         return 1;
