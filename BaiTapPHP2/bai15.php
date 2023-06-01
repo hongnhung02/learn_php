@@ -1,4 +1,5 @@
 <?php
+//Viết chương trình PHP để đảo ngược một chuỗi.
 function reverseString($string) {
     $length = strlen($string);
     $reversedString = '';

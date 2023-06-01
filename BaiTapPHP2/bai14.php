@@ -1,4 +1,5 @@
 <?php
+//Viết chương trình PHP để tìm vị trí của một phần tử trong một mảng.
 function findElementIndex($array, $element) {
     // Duyệt qua các phần tử của mảng
     for ($i = 0; $i < count($array); $i++) {

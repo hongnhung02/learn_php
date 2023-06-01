@@ -2,6 +2,7 @@
 <html>
 <body>
 <?php
+//Viết chương trình PHP để sắp xếp một mảng theo thứ tự tăng dần.
 function xapXep ($array){
     sort($array);
     return $array;
